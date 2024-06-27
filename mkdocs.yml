@@ -1,20 +1,24 @@
-site_name: ODE
+site_name: "ODE Documentation"  # Cambia el nombre del sitio según prefieras
 
 theme:
-  name: "material"
+  name: "material"  # Tema Material for MkDocs
+  palette:
+    primary: "green"  # Cambia el color primario del tema (puedes usar nombres de colores estándar o códigos hexadecimales)
+    accent: "light green"  # Cambia el color de acento del tema
 
 markdown_extensions:
   - pymdownx.arithmatex:
-      generic: true
+      generic: true  # Configuración para renderizar fórmulas matemáticas
 
 extra_javascript:
-  - javascript/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascript/mathjax.js  # Archivo de JavaScript personalizado
+  - https://polyfill.io/v3/polyfill.min.js?features=es6  # Polyfill para navegadores antiguos
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js  # Biblioteca MathJax para fórmulas matemáticas
 
 plugins:
-  - mkdocstrings
+  - mkdocstrings  # Plugin para integrar la documentación generada automáticamente
 
 nav:
-  - ODE: index.md
+  - ODE: index.md  # Enlaces en la barra de navegación principal
   - Reference: reference.md
+
