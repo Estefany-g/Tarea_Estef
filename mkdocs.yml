@@ -1,4 +1,4 @@
-site_name: "ODE Documentation"  # Cambia el nombre del sitio según prefieras
+site_name: "Tarea #4: de documentacion de ODE"  # Cambia el nombre del sitio según prefieras
 
 theme:
   name: "material"  # Tema Material for MkDocs
