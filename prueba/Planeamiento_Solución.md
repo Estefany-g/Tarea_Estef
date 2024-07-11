@@ -19,9 +19,10 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ## Visualizar su dinámica
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
 
 ## Paralelización 
+En el grafico presenado a coninuacion vamos a observar la
 <div>
 <img src="paralelizacion.jpeg"/>
 </div>
