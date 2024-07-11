@@ -22,3 +22,6 @@ All your files and folders are presented as a tree in the file explorer. You can
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 ## Paralelización 
+<div>
+<img src="paralelizacion.jpeg"/>
+</div>
