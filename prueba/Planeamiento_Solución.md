@@ -28,6 +28,8 @@ All your files and folders are presented as a tree in the file explorer. You can
   <source src="2.mp4" type="2/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
+[Ver video](1.mp4)
+
 
 ## Paralelización 
 En el grafico presenado a coninuacion vamos a observar la
