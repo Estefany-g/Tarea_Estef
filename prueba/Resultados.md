@@ -15,16 +15,9 @@ En esta sección se mostraran el planteamiento y los resultados obtenidos de MOD
 
 ## Visualizar su dinámica
 
-<video width="320" height="240" controls>
-  <source src="1.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+![Animación1](gif1.gif)
 
-<video width="320" height="240" controls>
-  <source src="2.mp4" type="2/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
-[Ver video](1.mp4)
+![Animación2](gif2.gif)
 
 
 ## Paralelización 
