@@ -19,7 +19,15 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ## Visualizar su dinámica
 
+<video width="320" height="240" controls>
+  <source src="1.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
+<video width="320" height="240" controls>
+  <source src="2.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
 ## Paralelización 
 En el grafico presenado a coninuacion vamos a observar la
