@@ -13,10 +13,6 @@ En esta sección se mostraran el planteamiento y los resultados obtenidos de MOD
 #### Método de Runge-Kutta de 4 Orden
 > **Nota:** Mejor compromiso entre complejidad y error de aproximación. Este método es el más utilizado comúnmente para resolver ODEs.
 
-## Construir la matriz Hamiltoniana
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 ## Visualizar su dinámica
 
 <video width="320" height="240" controls>
